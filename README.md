@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>Boat</title>
+<link rel="icon" type="image/x-icon" href="file:///C:/Users/Admin/Downloads/image.png" />
 
 	<style>
 		body{
